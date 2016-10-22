@@ -1,0 +1,6 @@
+## Interface: 70000
+## Title: RTData
+## Version: 0.0.1
+## Author: Fairy
+## SavedVariables: GuildEvents
+RTData.lua
